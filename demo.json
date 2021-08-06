@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "tenhang":"Dầu gội",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500.000,
+        "giavon":300.000,
+        "sotonkho":50
+
+    },
+    {
+        "id":2,
+        "tenhang":"Kem đánh răng",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500.000,
+        "giavon":300.000,
+        "sotonkho":50
+
+    },
+    {
+        "id":3,
+        "tenhang":"Bàn chải",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500.000,
+        "giavon":300.000,
+        "sotonkho":50
+
+    },
+    {
+        "id":4,
+        "tenhang":"Máy tính",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500.000,
+        "giavon":300.000,
+        "sotonkho":50
+
+    }
+    
+]
