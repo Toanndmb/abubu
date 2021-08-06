@@ -1,0 +1,164 @@
+[
+    {
+        "id":1,
+        "tenhang":"Dầu gội",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    },
+    {
+        "id":2,
+        "tenhang":"Kem đánh răng",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    },
+    {
+        "id":3,
+        "tenhang":"Bàn chải",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    },
+    {
+        "id":4,
+        "tenhang":"Máy tính",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    }
+    ,{
+        "id":5,
+        "tenhang":"Dầu gội",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    {
+        "id":6,
+        "tenhang":"Kem đánh răng",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    {
+        "id":7,
+        "tenhang":"Bàn chải",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    {
+        "id":8,
+        "tenhang":"Máy tính",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    {
+        "id":9,
+        "tenhang":"Dầu gội",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    },
+    {
+        "id":10,
+        "tenhang":"Kem đánh răng",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    },
+    {
+        "id":11,
+        "tenhang":"Bàn chải",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    },
+    {
+        "id":12,
+        "tenhang":"Máy tính",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+
+    }
+    ,{
+        "id":13,
+        "tenhang":"Dầu gội",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    {
+        "id":14,
+        "tenhang":"Kem đánh răng",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    {
+        "id":15,
+        "tenhang":"Bàn chải",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    {
+        "id":16,
+        "tenhang":"Máy tính",
+        "tenchucaidau":"D",
+        "mahang":"SP000001",
+        "giaban":500000,
+        "giavon":300000,
+        "sotonkho":50
+ 
+    },
+    
+    
+]
